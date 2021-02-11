@@ -1,9 +1,9 @@
-* Cherian et al (2021) Off-equatorial deep-cycle turbulence forced by Tropical Instabiltiy Waves in the equatorial Pacific
-
+* Cherian et al (2021) Off-equatorial deep-cycle turbulence forced by Tropical Instability Waves in the equatorial Pacific
 
 This repository provides code to reproduce Figures 2-12 in [[https://github.com/dcherian/cherian-2021-tiw-dcl/blob/master/dcl-paper-clean.ipynb][dcl-paper-clean.ipynb]]. Reproduction requires two publicly available datasets hosted on NCAR's [[https://dashrepo.ucar.edu][Digital Asset Services Hub (DASH)]] repository.
-1. [[https://dx.doi.org/10.5065/6qa0-v481][doi:10.5065/6qa0-v481]] : daily averages for much of the domain, and 4-hourly output along latitudinal sections at longitudes 110°W, 125°W, 140°W, and 155°W ();
-2. [[https://dx.doi.org/10.5065/3kb5-g350][doi:10.5065/3kb5-g350]]: hourly fields for the TIW that is the focus of this paper.
+
+1. [[https://dx.doi.org/10.5065/6qa0-v481][doi:10.5065/6qa0-v481]]: daily averages for much of the domain, and 4-hourly output along latitudinal sections at longitudes 110°W, 125°W, 140°W, and 155°W.
+2. [[https://dx.doi.org/10.5065/3kb5-g350][doi:10.5065/3kb5-g350]]: hourly fields for the particular TIW that is the focus of this paper.
 
 ** Acknowledgments
 This work was funded by National Oceanic and Atmospheric Administration Contract
