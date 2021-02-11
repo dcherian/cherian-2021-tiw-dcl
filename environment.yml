@@ -1,0 +1,47 @@
+name: pump
+channels:
+  - conda-forge
+  - pyviz
+dependencies:
+  - bottleneck
+  - cachey
+  - cartopy
+  - cf_xarray
+  - cftime
+  - colorcet
+  - dask
+  - dask_labextension
+  - distributed
+  - h5py
+  - hdf5
+  - ipympl
+  - ipython
+  - ipywidgets
+  - jupyter
+  - jupyterlab
+  - jupyter-server-proxy
+  - matplotlib
+  - netcdf4
+  - nc-time-axis
+  - nodejs
+  - notebook
+  - numba
+  - pandas=1.1.0
+  - pep8
+  - pip
+  - seaborn
+  - seawater
+  - scipy
+  - tqdm
+  - xarray
+  - xgcm
+  - xmitgcm
+  - zarr
+  - pip:
+    - dask_jobqueue
+    - ncar_jobqueue
+    - git+https://github.com/dcherian/pump.git
+    - git+https://github.com/dcherian/dcpy.git
+    - git+https://github.com/hetland/xroms.git
+    - git+https://github.com/dcherian/xfilter.git
+    - git+https://github.com/dcherian/xcoare.git
